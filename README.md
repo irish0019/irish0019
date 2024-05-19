@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Irish K Sajan
 </hr>
-🔭 I’m currently working on various Machine Learning and Data Science projects.
-🌱 I’m currently learning Cloud and Power BI
-⚡ Fun fact: ### I am a Swimmer
+-🔭 I’m currently working on various Machine Learning and Data Science projects.
+-🌱 I’m currently learning Cloud and Power BI
+-⚡ Fun fact: <b>I am a Swimmer</b>
 <!--
 **irish0019/irish0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
